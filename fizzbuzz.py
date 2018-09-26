@@ -1,7 +1,7 @@
 """
 fizzbuzz.py
 Author: Nathan Subrahmanian
-Credit: <list sources used, if any>
+Credit: https://stackoverflow.com/questions/23315261/returning-multiples-of-a-number-in-python
 
 Assignment:
 

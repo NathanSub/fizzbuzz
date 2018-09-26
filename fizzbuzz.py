@@ -50,5 +50,6 @@ fizz = int(input("For multiples of what number shall we print 'Fizz'? "))
 buzz = int(input("For multiples of what number shall we print 'Buzz'? "))
 for x in range(1,n):
     print(x)
-f = print("fizz") for x in list(range(1, n, 3)
+if x == list(range(1, n, 3):
+    print("Fizz")
     

@@ -49,6 +49,8 @@ n = (int(input("How many numbers shall we print? "))+1)
 fizz = int(input("For multiples of what number shall we print 'Fizz'? "))
 buzz = int(input("For multiples of what number shall we print 'Buzz'? "))
 for x in range(1,n):
-    if x % 3 == 0:
+    if x % fizz == 0:
         print("Fizz")
+    if x % buzz == 0:
+        print("Buzz")
     print(x)

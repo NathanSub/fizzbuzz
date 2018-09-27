@@ -50,5 +50,5 @@ fizz = int(input("For multiples of what number shall we print 'Fizz'? "))
 buzz = int(input("For multiples of what number shall we print 'Buzz'? "))
 for x in range(1,n):
     if x % 3 == 0:
-        print("Fizz" for x)
-    print("Fizz")
+        print("Fizz")
+    print(x)

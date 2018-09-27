@@ -53,4 +53,6 @@ for x in range(1,n):
         print("Fizz")
     if x % buzz == 0:
         print("Buzz")
+    if x % fizz == 0 and x % buzz == 0:
+        print("FizzBuzz")
     print(x)

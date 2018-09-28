@@ -55,4 +55,5 @@ for x in range(1,n):
         print("Fizz")
     elif x % buzz == 0:
         print("Buzz")
-    print(x)
+    else:
+        print(x)
